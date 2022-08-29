@@ -1,4 +1,5 @@
 #include <bits/stdc++.h>
+#include "mylib.h"
 
 using namespace std;
 
@@ -9,3 +10,4 @@ bool is_prime(int _TARGET){
     }
     return true;
 }
+//haihaihaihaihaihai
