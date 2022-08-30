@@ -6,7 +6,7 @@ using namespace std;
 #define MYLIB
 
 template <class T>
-
+double longatob(double x1,double y1,double x2,double y2);
 char *str_char_(char* a,int n,string b);
 int find_my(int* _START,int* _END,int _TARGET);
 int* BiggerNumPlus_my(int* a , int* b);
