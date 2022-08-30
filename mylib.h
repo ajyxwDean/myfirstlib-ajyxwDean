@@ -15,6 +15,7 @@ int poww(int a, int b);
 int strlen(char *str);
 void outputdown(int n);
 void QuickSort(int *array,int low,int high);
+bool is_prime(int _TARGET);
 template<class T>
 class CNum
 {
